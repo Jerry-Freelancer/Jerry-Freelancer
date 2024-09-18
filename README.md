@@ -6,6 +6,7 @@ Are you in need of an experienced database expert to tackle the complexities of 
 With over 10 years as a senior expert in MySQL/MariaDB/Percona/PostgreSQL/MongoDB/Oracle/DuckDB, I’ve managed over 5000 databases and 300 TB+ of data. My experience covers database architecture, performance optimization, backup and recovery, High availability, disaster recovery, and much more. I ensure every database solution I deliver is robust, scalable, high performance, and perfectly aligned with your business needs.
 
 🛠️ Technology Stack:
+
 MySQL/MariaDB/Percona (Versions 5-9): Installation、High Availability, Replication, and Scalability Solutions、InnoDB Cluster、Group Replication、Workbench/Shell/Router、Backup & Restore、Galera Cluster、Percona XtraDB Cluster、XtraBackup、Toolkit、InnoDB/MyISAM/Binlog.
 
 PostgreSQL (Versions 9-17): Installation、High Availability, Replication, and Scalability Solutions、SQL Tuning、pgpool-II、PostGIS、Patroni、Citus、pgvector、Security.
