@@ -1,9 +1,9 @@
 🚀 Welcome to my Github Profile! 🚀
 
-Are you in need of an experienced database expert to tackle the complexities of managing and optimizing your databases? With over 10 years of experiment across multiple database systems, I'm here to deliver top-notch solutions tailored to your needs, including database installation, backup and recovery, high availability, disaster recovery, performance optimization, data rescue and so on.
+Are you in need of an experienced database expert to tackle the complexities of managing and optimizing your databases? With over 12 years of experiment across multiple database systems, I'm here to deliver top-notch solutions tailored to your needs, including database installation, backup and recovery, high availability, disaster recovery, performance optimization, data rescue and so on.
 
 🔍 Database Expertise:
-With over 10 years as a senior expert in MySQL/MariaDB/Percona/PostgreSQL/MongoDB/Oracle/DuckDB, I’ve managed over 5000 databases and 300 TB+ of data. My experience covers database architecture, performance optimization, backup and recovery, High availability, disaster recovery, and much more. I ensure every database solution I deliver is robust, scalable, high performance, and perfectly aligned with your business needs.
+With over 12 years as a senior expert in MySQL/MariaDB/Percona/PostgreSQL/MongoDB/Oracle/DuckDB, I’ve managed over 5000 databases and 300 TB+ of data. My experience covers database architecture, performance optimization, backup and recovery, High availability, disaster recovery, and much more. I ensure every database solution I deliver is robust, scalable, high performance, and perfectly aligned with your business needs.
 
 🛠️ Technology Stack:
 
